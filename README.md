@@ -1,1 +1,1 @@
-# My-Portfolio
+This is a responsive Personal Portfolio website built with love and hard work and you can clone it to use but please don't forget to follow me and star my repository. Thank You and Good Luck.
